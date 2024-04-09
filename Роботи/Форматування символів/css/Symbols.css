@@ -1,0 +1,53 @@
+body{
+    background-color: orange;
+}
+p{
+    font-size: 50px;
+}
+
+.p1{
+    background-color: aqua;
+    color: brown;
+}
+
+.sh1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.sh2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sh3{
+    font-family: cursive;
+}
+.sh4{
+    font-family: "Rubik Glitch Pop", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background-color: aliceblue;
+}
+
+.sh6{
+    font-style: italic;
+}
+.sh7{
+    text-transform: uppercase;
+    text-shadow: 0 0 15px red, 4px 4px 15px pink;
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-style: wavy;
+    text-decoration-color: blue;
+}
+
+.sh8{
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.s1{
+    font-size: 1.5em;
+    color: gray;
+}
+.sh10{
+    font-kerning: none;
+}
